@@ -694,19 +694,19 @@ system to access data.
 
 iv. Business logic, what action to take at that condition is in App server itself.
 
-     v.  T3 architecture is best for WWW Applications-
+v.  T3 architecture is best for WWW Applications-
 
 vi. Advantages:
 
-     1. Scalability due to distributed application servers.
+1. Scalability due to distributed application servers.
 
-     2. Data integrity, App server acts as a middle layer between the client and DB, which minimize the chances of data corruption.
+ 2. Data integrity, App server acts as a middle layer between the client and DB, which minimize the chances of data corruption.
 
-     3. Security, the client can't directly access DB, hence it is more secure.
-
-
+ 3. Security, the client can't directly access DB, hence it is more secure.
 
 
 
 
-# [Check Here](https://code-xam.vercel.app/docs/dbms/dbms1#-quick-mcqs)
+
+
+# [Check Here](https://code-xam.vercel.app/docs/dbms/dbms2#-quick-mcqs)
