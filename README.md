@@ -23,4 +23,5 @@ We look forward to helping you learn and master the world of DBMS!
 | Day | Chapter Name | Read on Website | Read on GitHub |
 |-----|--------------|-----------------|----------------|
 | 1   | Introduction | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms1) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/01.%20Introduction) |
+| 2   | DBMS Architecture | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms2) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/02.%20DBMS%20Architecture) |
 
