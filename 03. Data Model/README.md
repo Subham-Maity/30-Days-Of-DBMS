@@ -418,9 +418,9 @@ Values of stored attributes remain constant and fixed for an entity instance and
 Here is the complete student diagram with all the attributes where address is the composite attribute, age is the derived attribute, phone number is the multivalued attribute, and roll number is the key attribute.
 
 
-<PhotoView   src="https://github.com/Subham-Maity/30-Days-Of-DBMS/blob/main/03.%20Data%20Model/img/17.png?raw=true" alt="example"  >
-                        <img  className="bg-purple-900 dark:bg-stone-900" style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}} align="center"  src="https://github.com/Subham-Maity/30-Days-Of-DBMS/blob/main/03.%20Data%20Model/img/17.png?raw=true" alt="example" />
-                    </PhotoView>
+<PhotoView src="https://github.com/Subham-Maity/30-Days-Of-DBMS/blob/main/03.%20Data%20Model/img/17.png?raw=true" alt="example"  >
+      <img  className="bg-purple-900 dark:bg-stone-900" style={{ position: "relative" ,opacity: 1 ,borderRadius: "10px" ,overflow: "hidden" , marginTop:"20px" , marginBottom: "20px"}} align="center"  src="https://github.com/Subham-Maity/30-Days-Of-DBMS/blob/main/03.%20Data%20Model/img/17.png?raw=true" alt="example" />
+</PhotoView>
 
 
 
