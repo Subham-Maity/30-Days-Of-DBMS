@@ -25,5 +25,5 @@ We look forward to helping you learn and master the world of DBMS!
 | 1   | Introduction + [8 Challenges](https://code-xam.vercel.app/docs/dbms/dbms1#-quick-mcqs) | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms1) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/01.%20Introduction) |
 | 2   | DBMS Architecture + [25 Challenges](https://code-xam.vercel.app/docs/dbms/dbms2#-quick-mcqs) | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms2) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/02.%20DBMS%20Architecture) |
 | 3   | Data Model + [35 Challenges](https://code-xam.vercel.app/docs/dbms/dbms3#-quick-mcqs) | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms3) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/03.%20Data%20Model) |
-
+| 4   | Extended ER Features + [10 Challenges](https://code-xam.vercel.app/docs/dbms/dbms4#-quick-mcqs) | [Check Here for Better Experience ](https://code-xam.vercel.app/docs/dbms/dbms4) | [Check Here](https://github.com/Subham-Maity/30-Days-Of-DBMS/tree/main/04.%20Extended%20ER%20Features) |
 
